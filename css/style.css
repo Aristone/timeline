@@ -26,8 +26,8 @@
     
 .circle {
     border: 8px solid #B8DCF5;
-    width: 5%;
-    height: 5%;
+    width: 35px;
+    height: 35px;
     background-color: #5FA6D5;
     border-radius: 55%;
     position: absolute;
@@ -35,9 +35,14 @@
 }
 
 .date{
-    font-size: 42px;
+    position: relative;
+    top:0%;
+    right: 0%;
+    margin: 10% 10% -25% 1%;
+    font-size: 15px;
     color: #80C0E9;
 }
+
 
 .time{
     font-size: 42px;
